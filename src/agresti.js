@@ -22,7 +22,7 @@ var agresti = function (positiveScore, total) {
   var a = z * Math.sqrt(pTilde * (1 - pTilde) / nTilde);
 
   return {
-    left: pTilde + a,
-    right: pTilde - a
+    left: pTilde - a,
+    right: pTilde + a
   };
 };
