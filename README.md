@@ -3,7 +3,7 @@ Agresti-Coull Interval
 
 [![Build Status](https://secure.travis-ci.org/msn0/agresti-coull-interval.png?branch=master)](http://travis-ci.org/msn0/agresti-coull-interval)
 
-Simple implementation of [Agresti-Coull interval](http://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval).
+Simple implementation of [Agresti-Coull interval](http://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval#Agresti-Coull_interval).
 
 Basic usage
 -----------
